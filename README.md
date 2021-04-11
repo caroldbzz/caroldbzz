@@ -1,4 +1,4 @@
-## Caroline Zago :brazil::space_invader:
+## Caroline Zago :space_invader:
 I'm a brazilian girl enthusiast of technology and passionate about problem solving, rubik cubes and chess. I have experience with software development using python for AI and data science projects, data pipelines, agile methodologies, DevOps culture and team management. 
 
 ### I'm a system analysis and development technologist student and a DevOps Manager & DataOps at Aquarela Advanced Analytics  
