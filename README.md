@@ -1,8 +1,8 @@
 ## Caroline Zago :space_invader:
 I'm a brazilian girl enthusiast of technology and passionate about problem solving, rubik cubes and chess. I have experience with software development using python for AI and data science projects, data pipelines, agile methodologies, DevOps culture and team management. I'm a system analysis and development technologist student and currently working as a data analyst.   
 
-- 🔭 I’m currently working with DataOps and Data Science related projects.
-- 🌱 I’m currently learning DevOps tools, software developing and software architecture.
+- 🔭 I’m currently working with MLOps and Data Science related projects.
+- 🌱 I’m currently learning DevOps and MLOps tools, software developing and software architecture.
 - :house: Santa Catarina, Brazil.
 - :link: [Caroline’s LinkedIn](https://www.linkedin.com/in/caroline-zago/).
 - 📫 carolineszago@gmail.com.
