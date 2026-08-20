@@ -22,7 +22,7 @@ I'm a Data and Technology enthusiast dedicated to solving complex problems and b
 
 ### 📊 GitHub Stats
 
-[![Caroline's GitHub Stats](https://github-stats-extended.vercel.app/api?username=caroldbzz&show_icons=true&theme=radical)](https://github.com/stats-organization/github-stats-extended)
+[![Caroline's GitHub Streak](https://streak-stats.demolab.com?user=caroldbzz&theme=radical)](https://git.io/streak-stats)
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=caroldbzz&layout=compact&theme=radical)](https://github.com/stats-organization/github-stats-extended)
 ---
 
