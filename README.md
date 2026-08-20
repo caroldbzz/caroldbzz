@@ -22,9 +22,10 @@ I'm a Data and Technology enthusiast dedicated to solving complex problems and b
 
 ### 📊 GitHub Stats
 
-![Caroline's GitHub Stats](https://github-readme-stats.vercel.app/api?username=caroldbzago&show_icons=true&theme=radical&cache_seconds=86400)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=caroldbzago&layout=compact&theme=radical&cache_seconds=86400)
+### 📊 GitHub Stats
 
+![Caroline's GitHub Stats](https://github-readme-stats.api.anuraghazra.dev/api?username=caroldbzago&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.api.anuraghazra.dev/api/top-langs/?username=caroldbzago&layout=compact&theme=radical)
 ---
 
 📬 **Connect with me:**  
