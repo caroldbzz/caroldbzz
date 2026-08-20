@@ -22,7 +22,8 @@ I'm a Data and Technology enthusiast dedicated to solving complex problems and b
 
 ### 📊 GitHub Stats
 
-![Caroline's GitHub Streak](https://streak-stats.demolab.com?user=caroldbzago&theme=radical)
+[![Caroline's GitHub Stats](https://github-readme-stats.vercel.app/api?username=caroldbzago&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=caroldbzago&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 📬 **Connect with me:**  
