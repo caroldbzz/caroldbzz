@@ -22,8 +22,6 @@ I'm a Data and Technology enthusiast dedicated to solving complex problems and b
 
 ### 📊 GitHub Stats
 
-### 📊 GitHub Stats
-
 ![Caroline's GitHub Stats](https://github-readme-stats.api.anuraghazra.dev/api?username=caroldbzago&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.api.anuraghazra.dev/api/top-langs/?username=caroldbzago&layout=compact&theme=radical)
 ---
